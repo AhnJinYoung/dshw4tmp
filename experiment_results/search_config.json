@@ -1,0 +1,1067 @@
+{
+  "k_digits": 0,
+  "digits_summary": [
+    {
+      "Parameter": 1,
+      "Algorithm": "H",
+      "MeanMs": 135.937008
+    },
+    {
+      "Parameter": 2,
+      "Algorithm": "M",
+      "MeanMs": 141.357306
+    },
+    {
+      "Parameter": 3,
+      "Algorithm": "Q",
+      "MeanMs": 137.313472
+    },
+    {
+      "Parameter": 4,
+      "Algorithm": "H",
+      "MeanMs": 144.282617
+    },
+    {
+      "Parameter": 5,
+      "Algorithm": "Q",
+      "MeanMs": 141.660767
+    },
+    {
+      "Parameter": 6,
+      "Algorithm": "M",
+      "MeanMs": 147.990146
+    },
+    {
+      "Parameter": 7,
+      "Algorithm": "Q",
+      "MeanMs": 137.939506
+    },
+    {
+      "Parameter": 8,
+      "Algorithm": "M",
+      "MeanMs": 140.640478
+    },
+    {
+      "Parameter": 9,
+      "Algorithm": "H",
+      "MeanMs": 138.274468
+    }
+  ],
+  "k_collision": 1.0,
+  "duplicates_summary": [
+    {
+      "Parameter": 0.0,
+      "Algorithm": "Q",
+      "MeanMs": 139.150364
+    },
+    {
+      "Parameter": 0.01,
+      "Algorithm": "Q",
+      "MeanMs": 143.474064
+    },
+    {
+      "Parameter": 0.02,
+      "Algorithm": "M",
+      "MeanMs": 139.283972
+    },
+    {
+      "Parameter": 0.03,
+      "Algorithm": "Q",
+      "MeanMs": 138.123395
+    },
+    {
+      "Parameter": 0.04,
+      "Algorithm": "Q",
+      "MeanMs": 140.733997
+    },
+    {
+      "Parameter": 0.05,
+      "Algorithm": "Q",
+      "MeanMs": 140.829545
+    },
+    {
+      "Parameter": 0.06,
+      "Algorithm": "Q",
+      "MeanMs": 137.333573
+    },
+    {
+      "Parameter": 0.07,
+      "Algorithm": "Q",
+      "MeanMs": 149.598814
+    },
+    {
+      "Parameter": 0.08,
+      "Algorithm": "Q",
+      "MeanMs": 144.130525
+    },
+    {
+      "Parameter": 0.09,
+      "Algorithm": "H",
+      "MeanMs": 141.000033
+    },
+    {
+      "Parameter": 0.1,
+      "Algorithm": "Q",
+      "MeanMs": 138.816699
+    },
+    {
+      "Parameter": 0.11,
+      "Algorithm": "M",
+      "MeanMs": 148.258663
+    },
+    {
+      "Parameter": 0.12,
+      "Algorithm": "Q",
+      "MeanMs": 152.449792
+    },
+    {
+      "Parameter": 0.13,
+      "Algorithm": "Q",
+      "MeanMs": 148.942421
+    },
+    {
+      "Parameter": 0.14,
+      "Algorithm": "Q",
+      "MeanMs": 142.83373
+    },
+    {
+      "Parameter": 0.15,
+      "Algorithm": "Q",
+      "MeanMs": 137.246353
+    },
+    {
+      "Parameter": 0.16,
+      "Algorithm": "H",
+      "MeanMs": 136.390783
+    },
+    {
+      "Parameter": 0.17,
+      "Algorithm": "H",
+      "MeanMs": 142.179578
+    },
+    {
+      "Parameter": 0.18,
+      "Algorithm": "H",
+      "MeanMs": 144.541757
+    },
+    {
+      "Parameter": 0.19,
+      "Algorithm": "H",
+      "MeanMs": 145.940313
+    },
+    {
+      "Parameter": 0.2,
+      "Algorithm": "M",
+      "MeanMs": 146.684777
+    },
+    {
+      "Parameter": 0.21,
+      "Algorithm": "Q",
+      "MeanMs": 139.472962
+    },
+    {
+      "Parameter": 0.22,
+      "Algorithm": "M",
+      "MeanMs": 142.709708
+    },
+    {
+      "Parameter": 0.23,
+      "Algorithm": "Q",
+      "MeanMs": 144.419166
+    },
+    {
+      "Parameter": 0.24,
+      "Algorithm": "Q",
+      "MeanMs": 142.351907
+    },
+    {
+      "Parameter": 0.25,
+      "Algorithm": "Q",
+      "MeanMs": 138.858441
+    },
+    {
+      "Parameter": 0.26,
+      "Algorithm": "Q",
+      "MeanMs": 136.628642
+    },
+    {
+      "Parameter": 0.27,
+      "Algorithm": "M",
+      "MeanMs": 146.08903
+    },
+    {
+      "Parameter": 0.28,
+      "Algorithm": "M",
+      "MeanMs": 142.251921
+    },
+    {
+      "Parameter": 0.29,
+      "Algorithm": "M",
+      "MeanMs": 139.643766
+    },
+    {
+      "Parameter": 0.3,
+      "Algorithm": "Q",
+      "MeanMs": 140.290946
+    },
+    {
+      "Parameter": 0.31,
+      "Algorithm": "Q",
+      "MeanMs": 141.221684
+    },
+    {
+      "Parameter": 0.32,
+      "Algorithm": "Q",
+      "MeanMs": 140.853589
+    },
+    {
+      "Parameter": 0.33,
+      "Algorithm": "Q",
+      "MeanMs": 140.809588
+    },
+    {
+      "Parameter": 0.34,
+      "Algorithm": "Q",
+      "MeanMs": 142.360177
+    },
+    {
+      "Parameter": 0.35,
+      "Algorithm": "Q",
+      "MeanMs": 143.625867
+    },
+    {
+      "Parameter": 0.36,
+      "Algorithm": "Q",
+      "MeanMs": 148.161708
+    },
+    {
+      "Parameter": 0.37,
+      "Algorithm": "Q",
+      "MeanMs": 145.679953
+    },
+    {
+      "Parameter": 0.38,
+      "Algorithm": "H",
+      "MeanMs": 139.705432
+    },
+    {
+      "Parameter": 0.39,
+      "Algorithm": "Q",
+      "MeanMs": 140.815393
+    },
+    {
+      "Parameter": 0.4,
+      "Algorithm": "Q",
+      "MeanMs": 148.569419
+    },
+    {
+      "Parameter": 0.41,
+      "Algorithm": "H",
+      "MeanMs": 146.687432
+    },
+    {
+      "Parameter": 0.42,
+      "Algorithm": "H",
+      "MeanMs": 142.057282
+    },
+    {
+      "Parameter": 0.43,
+      "Algorithm": "H",
+      "MeanMs": 141.781397
+    },
+    {
+      "Parameter": 0.44,
+      "Algorithm": "H",
+      "MeanMs": 140.441034
+    },
+    {
+      "Parameter": 0.45,
+      "Algorithm": "H",
+      "MeanMs": 138.467523
+    },
+    {
+      "Parameter": 0.46,
+      "Algorithm": "Q",
+      "MeanMs": 138.484458
+    },
+    {
+      "Parameter": 0.47,
+      "Algorithm": "Q",
+      "MeanMs": 139.730048
+    },
+    {
+      "Parameter": 0.48,
+      "Algorithm": "M",
+      "MeanMs": 150.10357
+    },
+    {
+      "Parameter": 0.49,
+      "Algorithm": "H",
+      "MeanMs": 140.338422
+    },
+    {
+      "Parameter": 0.5,
+      "Algorithm": "H",
+      "MeanMs": 142.253446
+    },
+    {
+      "Parameter": 0.51,
+      "Algorithm": "H",
+      "MeanMs": 142.116002
+    },
+    {
+      "Parameter": 0.52,
+      "Algorithm": "H",
+      "MeanMs": 141.174383
+    },
+    {
+      "Parameter": 0.53,
+      "Algorithm": "Q",
+      "MeanMs": 141.43767
+    },
+    {
+      "Parameter": 0.54,
+      "Algorithm": "H",
+      "MeanMs": 141.541022
+    },
+    {
+      "Parameter": 0.55,
+      "Algorithm": "Q",
+      "MeanMs": 138.910937
+    },
+    {
+      "Parameter": 0.56,
+      "Algorithm": "Q",
+      "MeanMs": 144.144495
+    },
+    {
+      "Parameter": 0.57,
+      "Algorithm": "M",
+      "MeanMs": 145.633453
+    },
+    {
+      "Parameter": 0.58,
+      "Algorithm": "M",
+      "MeanMs": 139.034233
+    },
+    {
+      "Parameter": 0.59,
+      "Algorithm": "H",
+      "MeanMs": 140.367498
+    },
+    {
+      "Parameter": 0.6,
+      "Algorithm": "Q",
+      "MeanMs": 144.323201
+    },
+    {
+      "Parameter": 0.61,
+      "Algorithm": "M",
+      "MeanMs": 143.855773
+    },
+    {
+      "Parameter": 0.62,
+      "Algorithm": "H",
+      "MeanMs": 142.004316
+    },
+    {
+      "Parameter": 0.63,
+      "Algorithm": "Q",
+      "MeanMs": 150.272531
+    },
+    {
+      "Parameter": 0.64,
+      "Algorithm": "Q",
+      "MeanMs": 138.774544
+    },
+    {
+      "Parameter": 0.65,
+      "Algorithm": "Q",
+      "MeanMs": 139.415822
+    },
+    {
+      "Parameter": 0.66,
+      "Algorithm": "Q",
+      "MeanMs": 138.433362
+    },
+    {
+      "Parameter": 0.67,
+      "Algorithm": "H",
+      "MeanMs": 140.517591
+    },
+    {
+      "Parameter": 0.68,
+      "Algorithm": "Q",
+      "MeanMs": 147.174003
+    },
+    {
+      "Parameter": 0.69,
+      "Algorithm": "H",
+      "MeanMs": 146.995481
+    },
+    {
+      "Parameter": 0.7,
+      "Algorithm": "Q",
+      "MeanMs": 144.007092
+    },
+    {
+      "Parameter": 0.71,
+      "Algorithm": "Q",
+      "MeanMs": 142.417552
+    },
+    {
+      "Parameter": 0.72,
+      "Algorithm": "Q",
+      "MeanMs": 136.971681
+    },
+    {
+      "Parameter": 0.73,
+      "Algorithm": "Q",
+      "MeanMs": 139.158347
+    },
+    {
+      "Parameter": 0.74,
+      "Algorithm": "Q",
+      "MeanMs": 140.272556
+    },
+    {
+      "Parameter": 0.75,
+      "Algorithm": "H",
+      "MeanMs": 139.271364
+    },
+    {
+      "Parameter": 0.76,
+      "Algorithm": "Q",
+      "MeanMs": 141.259947
+    },
+    {
+      "Parameter": 0.77,
+      "Algorithm": "H",
+      "MeanMs": 139.722287
+    },
+    {
+      "Parameter": 0.78,
+      "Algorithm": "M",
+      "MeanMs": 140.985711
+    },
+    {
+      "Parameter": 0.79,
+      "Algorithm": "M",
+      "MeanMs": 140.709457
+    },
+    {
+      "Parameter": 0.8,
+      "Algorithm": "H",
+      "MeanMs": 142.891352
+    },
+    {
+      "Parameter": 0.81,
+      "Algorithm": "Q",
+      "MeanMs": 142.780632
+    },
+    {
+      "Parameter": 0.82,
+      "Algorithm": "Q",
+      "MeanMs": 145.01417
+    },
+    {
+      "Parameter": 0.83,
+      "Algorithm": "H",
+      "MeanMs": 148.903923
+    },
+    {
+      "Parameter": 0.84,
+      "Algorithm": "M",
+      "MeanMs": 143.91109
+    },
+    {
+      "Parameter": 0.85,
+      "Algorithm": "Q",
+      "MeanMs": 141.773056
+    },
+    {
+      "Parameter": 0.86,
+      "Algorithm": "H",
+      "MeanMs": 139.048205
+    },
+    {
+      "Parameter": 0.87,
+      "Algorithm": "Q",
+      "MeanMs": 139.977995
+    },
+    {
+      "Parameter": 0.88,
+      "Algorithm": "H",
+      "MeanMs": 142.898119
+    },
+    {
+      "Parameter": 0.89,
+      "Algorithm": "H",
+      "MeanMs": 139.971983
+    },
+    {
+      "Parameter": 0.9,
+      "Algorithm": "H",
+      "MeanMs": 144.379957
+    },
+    {
+      "Parameter": 0.91,
+      "Algorithm": "Q",
+      "MeanMs": 142.462056
+    },
+    {
+      "Parameter": 0.92,
+      "Algorithm": "H",
+      "MeanMs": 145.596469
+    },
+    {
+      "Parameter": 0.93,
+      "Algorithm": "H",
+      "MeanMs": 148.679892
+    },
+    {
+      "Parameter": 0.94,
+      "Algorithm": "H",
+      "MeanMs": 140.847459
+    },
+    {
+      "Parameter": 0.95,
+      "Algorithm": "H",
+      "MeanMs": 147.047531
+    },
+    {
+      "Parameter": 0.96,
+      "Algorithm": "Q",
+      "MeanMs": 144.659599
+    },
+    {
+      "Parameter": 0.97,
+      "Algorithm": "H",
+      "MeanMs": 143.154854
+    },
+    {
+      "Parameter": 0.98,
+      "Algorithm": "H",
+      "MeanMs": 140.638573
+    },
+    {
+      "Parameter": 0.99,
+      "Algorithm": "M",
+      "MeanMs": 141.225016
+    },
+    {
+      "Parameter": 1.0,
+      "Algorithm": "I",
+      "MeanMs": 140.507299
+    }
+  ],
+  "k_sorted": 0.55,
+  "sorted_summary": [
+    {
+      "Parameter": 0.0,
+      "Algorithm": "M",
+      "MeanMs": 144.645949
+    },
+    {
+      "Parameter": 0.01,
+      "Algorithm": "M",
+      "MeanMs": 142.841308
+    },
+    {
+      "Parameter": 0.02,
+      "Algorithm": "M",
+      "MeanMs": 140.450819
+    },
+    {
+      "Parameter": 0.03,
+      "Algorithm": "H",
+      "MeanMs": 142.450039
+    },
+    {
+      "Parameter": 0.04,
+      "Algorithm": "M",
+      "MeanMs": 142.360056
+    },
+    {
+      "Parameter": 0.05,
+      "Algorithm": "M",
+      "MeanMs": 141.277014
+    },
+    {
+      "Parameter": 0.06,
+      "Algorithm": "H",
+      "MeanMs": 145.594311
+    },
+    {
+      "Parameter": 0.07,
+      "Algorithm": "H",
+      "MeanMs": 146.913195
+    },
+    {
+      "Parameter": 0.08,
+      "Algorithm": "M",
+      "MeanMs": 141.457619
+    },
+    {
+      "Parameter": 0.09,
+      "Algorithm": "H",
+      "MeanMs": 141.590227
+    },
+    {
+      "Parameter": 0.1,
+      "Algorithm": "H",
+      "MeanMs": 138.798976
+    },
+    {
+      "Parameter": 0.11,
+      "Algorithm": "H",
+      "MeanMs": 140.779465
+    },
+    {
+      "Parameter": 0.12,
+      "Algorithm": "M",
+      "MeanMs": 140.100274
+    },
+    {
+      "Parameter": 0.13,
+      "Algorithm": "M",
+      "MeanMs": 141.351186
+    },
+    {
+      "Parameter": 0.14,
+      "Algorithm": "M",
+      "MeanMs": 142.245535
+    },
+    {
+      "Parameter": 0.15,
+      "Algorithm": "H",
+      "MeanMs": 151.796087
+    },
+    {
+      "Parameter": 0.16,
+      "Algorithm": "M",
+      "MeanMs": 145.715884
+    },
+    {
+      "Parameter": 0.17,
+      "Algorithm": "H",
+      "MeanMs": 144.678824
+    },
+    {
+      "Parameter": 0.18,
+      "Algorithm": "H",
+      "MeanMs": 144.835164
+    },
+    {
+      "Parameter": 0.19,
+      "Algorithm": "M",
+      "MeanMs": 139.544046
+    },
+    {
+      "Parameter": 0.2,
+      "Algorithm": "H",
+      "MeanMs": 139.860329
+    },
+    {
+      "Parameter": 0.21,
+      "Algorithm": "H",
+      "MeanMs": 140.125798
+    },
+    {
+      "Parameter": 0.22,
+      "Algorithm": "M",
+      "MeanMs": 148.307602
+    },
+    {
+      "Parameter": 0.23,
+      "Algorithm": "H",
+      "MeanMs": 148.87561
+    },
+    {
+      "Parameter": 0.24,
+      "Algorithm": "M",
+      "MeanMs": 138.310378
+    },
+    {
+      "Parameter": 0.25,
+      "Algorithm": "M",
+      "MeanMs": 140.064796
+    },
+    {
+      "Parameter": 0.26,
+      "Algorithm": "H",
+      "MeanMs": 143.14376
+    },
+    {
+      "Parameter": 0.27,
+      "Algorithm": "H",
+      "MeanMs": 142.749332
+    },
+    {
+      "Parameter": 0.28,
+      "Algorithm": "H",
+      "MeanMs": 141.895352
+    },
+    {
+      "Parameter": 0.29,
+      "Algorithm": "M",
+      "MeanMs": 143.976297
+    },
+    {
+      "Parameter": 0.3,
+      "Algorithm": "H",
+      "MeanMs": 141.978592
+    },
+    {
+      "Parameter": 0.31,
+      "Algorithm": "M",
+      "MeanMs": 146.257955
+    },
+    {
+      "Parameter": 0.32,
+      "Algorithm": "H",
+      "MeanMs": 147.728064
+    },
+    {
+      "Parameter": 0.33,
+      "Algorithm": "M",
+      "MeanMs": 141.85723
+    },
+    {
+      "Parameter": 0.34,
+      "Algorithm": "H",
+      "MeanMs": 144.184345
+    },
+    {
+      "Parameter": 0.35,
+      "Algorithm": "H",
+      "MeanMs": 142.232528
+    },
+    {
+      "Parameter": 0.36,
+      "Algorithm": "M",
+      "MeanMs": 140.75043
+    },
+    {
+      "Parameter": 0.37,
+      "Algorithm": "M",
+      "MeanMs": 139.008009
+    },
+    {
+      "Parameter": 0.38,
+      "Algorithm": "H",
+      "MeanMs": 149.893067
+    },
+    {
+      "Parameter": 0.39,
+      "Algorithm": "H",
+      "MeanMs": 145.520393
+    },
+    {
+      "Parameter": 0.4,
+      "Algorithm": "H",
+      "MeanMs": 140.055511
+    },
+    {
+      "Parameter": 0.41,
+      "Algorithm": "M",
+      "MeanMs": 138.683469
+    },
+    {
+      "Parameter": 0.42,
+      "Algorithm": "H",
+      "MeanMs": 143.591511
+    },
+    {
+      "Parameter": 0.43,
+      "Algorithm": "H",
+      "MeanMs": 141.99538
+    },
+    {
+      "Parameter": 0.44,
+      "Algorithm": "M",
+      "MeanMs": 138.829323
+    },
+    {
+      "Parameter": 0.45,
+      "Algorithm": "M",
+      "MeanMs": 138.847443
+    },
+    {
+      "Parameter": 0.46,
+      "Algorithm": "M",
+      "MeanMs": 140.776542
+    },
+    {
+      "Parameter": 0.47,
+      "Algorithm": "H",
+      "MeanMs": 140.497172
+    },
+    {
+      "Parameter": 0.48,
+      "Algorithm": "M",
+      "MeanMs": 141.777306
+    },
+    {
+      "Parameter": 0.49,
+      "Algorithm": "Q",
+      "MeanMs": 144.147474
+    },
+    {
+      "Parameter": 0.5,
+      "Algorithm": "M",
+      "MeanMs": 140.133766
+    },
+    {
+      "Parameter": 0.51,
+      "Algorithm": "M",
+      "MeanMs": 139.855521
+    },
+    {
+      "Parameter": 0.52,
+      "Algorithm": "M",
+      "MeanMs": 149.185366
+    },
+    {
+      "Parameter": 0.53,
+      "Algorithm": "H",
+      "MeanMs": 142.718278
+    },
+    {
+      "Parameter": 0.54,
+      "Algorithm": "M",
+      "MeanMs": 145.372219
+    },
+    {
+      "Parameter": 0.55,
+      "Algorithm": "I",
+      "MeanMs": 146.099881
+    },
+    {
+      "Parameter": 0.56,
+      "Algorithm": "I",
+      "MeanMs": 151.242024
+    },
+    {
+      "Parameter": 0.57,
+      "Algorithm": "H",
+      "MeanMs": 146.63626
+    },
+    {
+      "Parameter": 0.58,
+      "Algorithm": "M",
+      "MeanMs": 144.567317
+    },
+    {
+      "Parameter": 0.59,
+      "Algorithm": "I",
+      "MeanMs": 140.497389
+    },
+    {
+      "Parameter": 0.6,
+      "Algorithm": "I",
+      "MeanMs": 139.676494
+    },
+    {
+      "Parameter": 0.61,
+      "Algorithm": "I",
+      "MeanMs": 143.563689
+    },
+    {
+      "Parameter": 0.62,
+      "Algorithm": "M",
+      "MeanMs": 142.732698
+    },
+    {
+      "Parameter": 0.63,
+      "Algorithm": "I",
+      "MeanMs": 140.023933
+    },
+    {
+      "Parameter": 0.64,
+      "Algorithm": "M",
+      "MeanMs": 144.727706
+    },
+    {
+      "Parameter": 0.65,
+      "Algorithm": "I",
+      "MeanMs": 142.570531
+    },
+    {
+      "Parameter": 0.66,
+      "Algorithm": "I",
+      "MeanMs": 142.609546
+    },
+    {
+      "Parameter": 0.67,
+      "Algorithm": "I",
+      "MeanMs": 137.191884
+    },
+    {
+      "Parameter": 0.68,
+      "Algorithm": "I",
+      "MeanMs": 136.897001
+    },
+    {
+      "Parameter": 0.69,
+      "Algorithm": "I",
+      "MeanMs": 139.04633
+    },
+    {
+      "Parameter": 0.7,
+      "Algorithm": "M",
+      "MeanMs": 140.304178
+    },
+    {
+      "Parameter": 0.71,
+      "Algorithm": "M",
+      "MeanMs": 143.671792
+    },
+    {
+      "Parameter": 0.72,
+      "Algorithm": "I",
+      "MeanMs": 139.640371
+    },
+    {
+      "Parameter": 0.73,
+      "Algorithm": "H",
+      "MeanMs": 143.01679
+    },
+    {
+      "Parameter": 0.74,
+      "Algorithm": "I",
+      "MeanMs": 139.233522
+    },
+    {
+      "Parameter": 0.75,
+      "Algorithm": "I",
+      "MeanMs": 136.042335
+    },
+    {
+      "Parameter": 0.76,
+      "Algorithm": "I",
+      "MeanMs": 138.127795
+    },
+    {
+      "Parameter": 0.77,
+      "Algorithm": "M",
+      "MeanMs": 136.458657
+    },
+    {
+      "Parameter": 0.78,
+      "Algorithm": "I",
+      "MeanMs": 141.353256
+    },
+    {
+      "Parameter": 0.79,
+      "Algorithm": "I",
+      "MeanMs": 139.666343
+    },
+    {
+      "Parameter": 0.8,
+      "Algorithm": "M",
+      "MeanMs": 138.033843
+    },
+    {
+      "Parameter": 0.81,
+      "Algorithm": "M",
+      "MeanMs": 139.437937
+    },
+    {
+      "Parameter": 0.82,
+      "Algorithm": "I",
+      "MeanMs": 139.037774
+    },
+    {
+      "Parameter": 0.83,
+      "Algorithm": "I",
+      "MeanMs": 138.025424
+    },
+    {
+      "Parameter": 0.84,
+      "Algorithm": "H",
+      "MeanMs": 138.85569
+    },
+    {
+      "Parameter": 0.85,
+      "Algorithm": "I",
+      "MeanMs": 136.937489
+    },
+    {
+      "Parameter": 0.86,
+      "Algorithm": "I",
+      "MeanMs": 141.173906
+    },
+    {
+      "Parameter": 0.87,
+      "Algorithm": "I",
+      "MeanMs": 146.321542
+    },
+    {
+      "Parameter": 0.88,
+      "Algorithm": "M",
+      "MeanMs": 147.063865
+    },
+    {
+      "Parameter": 0.89,
+      "Algorithm": "M",
+      "MeanMs": 142.849486
+    },
+    {
+      "Parameter": 0.9,
+      "Algorithm": "I",
+      "MeanMs": 136.484537
+    },
+    {
+      "Parameter": 0.91,
+      "Algorithm": "I",
+      "MeanMs": 138.295834
+    },
+    {
+      "Parameter": 0.92,
+      "Algorithm": "M",
+      "MeanMs": 139.89637
+    },
+    {
+      "Parameter": 0.93,
+      "Algorithm": "I",
+      "MeanMs": 138.735041
+    },
+    {
+      "Parameter": 0.94,
+      "Algorithm": "M",
+      "MeanMs": 135.776518
+    },
+    {
+      "Parameter": 0.95,
+      "Algorithm": "I",
+      "MeanMs": 136.138204
+    },
+    {
+      "Parameter": 0.96,
+      "Algorithm": "I",
+      "MeanMs": 136.102807
+    },
+    {
+      "Parameter": 0.97,
+      "Algorithm": "I",
+      "MeanMs": 138.556515
+    },
+    {
+      "Parameter": 0.98,
+      "Algorithm": "M",
+      "MeanMs": 145.332839
+    },
+    {
+      "Parameter": 0.99,
+      "Algorithm": "M",
+      "MeanMs": 152.063889
+    },
+    {
+      "Parameter": 1.0,
+      "Algorithm": "M",
+      "MeanMs": 136.235945
+    }
+  ],
+  "default_algorithm": "Q"
+}
